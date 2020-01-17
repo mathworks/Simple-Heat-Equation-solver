@@ -88,3 +88,7 @@ end
 
 ![figure_1.png](SimpleHeatEquation_images/figure_1.png)
 
+Copyright 2015-2016 The MathWorks, Inc.
+[![View Simple Heat Equation solver on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/59916-simple-heat-equation-solver)
+
+
